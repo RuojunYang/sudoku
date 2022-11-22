@@ -4,8 +4,8 @@
 * Back Tracking Method
 
 ## Function
-Algorithm.py is only the algorithm
-GUI.py is algorithm combined with tk interface
+* Algorithm.py is only the algorithm
+* GUI.py is algorithm combined with tk interface
 
 ## Data
 * Dataset from https://www.kaggle.com/datasets/rohanrao/sudoku
